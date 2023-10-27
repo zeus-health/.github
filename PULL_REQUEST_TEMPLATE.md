@@ -14,8 +14,15 @@ Do you have any useful tips for the reviewer? Anything that you're nervous about
 **REQUIRED**
 
 Please describe in detail what you have done to test this change. In particular consider edge cases
-and regressions (e.g. does my bug fix for a corner case break the happy path?). Describe your test
-cases, methodology, examples of data used and any other notes.
+and regressions (e.g. does my bug fix for a corner case break the happy path?). Describe your test steps, test
+cases, examples of data used and any other notes. Screenshots and resource IDs are encouraged.
+
+Consider the following testing approaches:
+
+- Unit Tests
+- Dev Server
+- Terraform Workspace
+- Integration Tests
 
 # How will you know that this is working after deployment?
 
@@ -32,3 +39,6 @@ Things to consider here:
 - Test updates
 - Backfills
 - Monitoring updates
+
+_NOTE:_ This template comes from https://github.com/zeus-health/.github/PULL_REQUEST_TEMPLATE.md.
+If you would like to suggest modifications to this template, open a PR.
