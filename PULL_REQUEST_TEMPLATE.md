@@ -1,6 +1,6 @@
 Jira Ticket Number:
 
-# What does this PR accomplish?
+## What does this PR accomplish?
 
 **REQUIRED**
 
@@ -9,7 +9,7 @@ sure to list those as well (e.g. refactors, additional tests, etc).
 
 Do you have any useful tips for the reviewer? Anything that you're nervous about?
 
-# How did you test it?
+## How did you test it?
 
 **REQUIRED**
 
@@ -24,14 +24,14 @@ Consider the following testing approaches:
 - Terraform Workspace
 - Integration Tests
 
-# How will you know that this is working after deployment?
+## How will you know that this is working after deployment?
 
 **REQUIRED**
 
 Describe what steps will be taken to be confident that this code is behaving as expected once it is
 deployed.
 
-# Any outstanding items or follow ups with Jira tickets?
+## Any outstanding items or follow ups with Jira tickets?
 
 Things to consider here:
 
@@ -40,5 +40,5 @@ Things to consider here:
 - Backfills
 - Monitoring updates
 
-_NOTE:_ This template comes from https://github.com/zeus-health/.github/PULL_REQUEST_TEMPLATE.md.
+_NOTE:_ This template comes from [here](https://github.com/zeus-health/.github/blob/main/PULL_REQUEST_TEMPLATE.md).
 If you would like to suggest modifications to this template, open a PR.
