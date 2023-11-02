@@ -40,5 +40,5 @@ Things to consider here:
 - Backfills
 - Monitoring updates
 
-_NOTE:_ This template comes from [here](https://github.com/zeus-health/.github/blob/main/PULL_REQUEST_TEMPLATE.md)https://github.com/zeus-health/.github/blob/main/PULL_REQUEST_TEMPLATE.md.
+_NOTE:_ This template comes from [here](https://github.com/zeus-health/.github/blob/main/PULL_REQUEST_TEMPLATE.md).
 If you would like to suggest modifications to this template, open a PR.
