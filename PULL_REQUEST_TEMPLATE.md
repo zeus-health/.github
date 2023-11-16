@@ -35,7 +35,7 @@ deployed.
 
 Things to consider here:
 
-- Documentation updates
+- Documentation updates: Confluence, Postman, OpenAPI specs, release notes
 - Test updates
 - Backfills
 - Monitoring updates
