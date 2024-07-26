@@ -7,7 +7,7 @@ Jira Ticket Number:
 What are you trying to do with this PR? If there are multiple tasks being accomplished please be
 sure to list those as well (e.g. refactors, additional tests, etc).
 
-Do you have any useful tips for the reviewer? Anything that you're nervous about?
+Do you have any useful tips for the reviewer? Anything that you're nervous about? Please annotate specific places in the code that you believe are especially noteworthy for the reviewer.
 
 ## How did you test it?
 
@@ -26,10 +26,14 @@ Consider the following testing approaches:
 
 ## How will you know that this is working after deployment?
 
-**REQUIRED**
+**Reminder that you should only move your Jira ticket to "Done" once you've verified that it's been deployed and is functioning as expected in production**
 
 Describe what steps will be taken to be confident that this code is behaving as expected once it is
 deployed.
+
+## Do you need to take any special steps to roll back this change?
+
+If this PR requires any special steps, outside of the normal process, to roll back these changes then lay them out here.
 
 ## Any outstanding items or follow ups with Jira tickets?
 
