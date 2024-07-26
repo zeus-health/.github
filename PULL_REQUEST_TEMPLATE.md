@@ -26,7 +26,7 @@ Consider the following testing approaches:
 
 ## How will you know that this is working after deployment?
 
-**Reminder that you should only move your Jira ticket to "Done" once you've verified that it's been deployed and is functoining as expected in production**
+**Reminder that you should only move your Jira ticket to "Done" once you've verified that it's been deployed and is functioning as expected in production**
 
 Describe what steps will be taken to be confident that this code is behaving as expected once it is
 deployed.
