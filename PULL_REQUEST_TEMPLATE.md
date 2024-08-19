@@ -24,21 +24,5 @@ Consider the following testing approaches:
 - Terraform Workspace
 - Integration Tests
 
-## How will you know that this is working after deployment?
-
-**REQUIRED**
-
-Describe what steps will be taken to be confident that this code is behaving as expected once it is
-deployed.
-
-## Any outstanding items or follow ups with Jira tickets?
-
-Things to consider here:
-
-- Documentation updates: Confluence, Postman, OpenAPI specs, release notes
-- Test updates
-- Backfills
-- Monitoring updates
-
 _NOTE:_ This template comes from [here](https://github.com/zeus-health/.github/blob/main/PULL_REQUEST_TEMPLATE.md).
 If you would like to suggest modifications to this template, open a PR.
