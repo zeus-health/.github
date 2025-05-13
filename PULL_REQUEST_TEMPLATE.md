@@ -1,4 +1,4 @@
-Jira Ticket Number:
+Jira Ticket Number: []
 
 ## What does this PR accomplish?
 
